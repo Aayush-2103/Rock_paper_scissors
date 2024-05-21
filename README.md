@@ -23,3 +23,14 @@
   <br>
   🎉 No need to stress over rankings or updates, just pure, unadulterated fun!
 </p>
+
+<h2>
+  How to use ???
+</h2>
+<p>
+  <ol>
+    <li> Click on the highlighted text <a href="https://github.com/Aayush-2103/Rock_paper_scissors/blob/main/dist/Rock%20paper%20scissor.exe"> Rock paper scissor.exe </a> </li>
+    <li> Click on the download button and the file will be downloaded. </li>
+    <li> Double-click on the downloaded file and it will run directly on your command prompt. </li>
+  </ol>
+</p>
