@@ -1,5 +1,5 @@
 <h1>
-  Rock, Paper, Scissors! 🪨📄✂️ Challenge & Conquer! 🌟
+  Rock, Paper, Scissors! 📄✂️ Challenge & Conquer! 🌟
 </h1>
 
 <h2>
