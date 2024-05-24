@@ -34,3 +34,10 @@
     <li> Double-click on the downloaded file and it will run directly on your command prompt. </li>
   </ol>
 </p>
+
+<h2>
+  📚 Learning Outcomes
+</h2>
+<p>
+  Working on my Rock Paper Scissors game project was a fantastic learning experience. I got to apply my knowledge in a fun, practical way, and it helped me understand how to solve real-life problems with programming. I gained insights into data types and algorithms, focusing on creating optimized algorithms for fast, efficient performance. Exploring the random module was particularly exciting, as I saw how its functions can be used in a playful context. Overall, the project boosted my knowledge, confidence, and motivation to dive deeper into programming and continue learning and exploring.
+</p>
